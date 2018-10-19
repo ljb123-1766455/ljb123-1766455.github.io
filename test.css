@@ -4,25 +4,34 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    text-align: center;
+    padding-left: 15px;
   }
   #LeftNav {
     Border: solid 8px  black;
     width: 400px;
+    float: left;
+    text-align: center;
+    padding-left: 8px;
   }
   #Content{
     Border: solid 8px  black;
     width: 700px;
     margin-bottom: 40px;
+    text-align: center;
   }
   #Footer {
     Border: solid 8px  black;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
   }
   ul {
     list-style-type: none;
     padding-left: 0px;
   }
-
+  body {
+      background-image: url('dark_wood.png');
+  }
 
 
