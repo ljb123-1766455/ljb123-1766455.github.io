@@ -1,16 +1,28 @@
-#Header{
-  Border: solid 8px
-}
-#LeftNav{
-  
-}
-#Content{
-  
-}
-#Footer{
-
-}
-
+#Header {
+    Border: solid 8px  black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+  #LeftNav {
+    Border: solid 8px  black;
+    width: 400px;
+  }
+  #Content{
+    Border: solid 8px  black;
+    width: 700px;
+    margin-bottom: 40px;
+  }
+  #Footer {
+    Border: solid 8px  black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  ul {
+    list-style-type: none;
+    padding-left: 0px;
+  }
 
 
 
