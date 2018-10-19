@@ -63,3 +63,35 @@
   body {
       background-image: url('dark_wood.png');
   }
+ div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+table, th, td {
+    border: 1px solid black;
+ }
+ .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+span.b {
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    padding: 4px;
+    border: 2px solid blue; 
+    background-color: yellow; 
+}
+
+span.c {
+    display: block;
+    width: 90px;
+    height: 90px;
+    padding: 4px;
+    border: 2px solid blue; 
+    background-color: yellow; 
+}
