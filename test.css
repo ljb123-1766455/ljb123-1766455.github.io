@@ -7,6 +7,19 @@
     text-align: center;
     padding-left: 15px;
   }
+
+  #Header h1{
+      font-size: 60px;
+      font-family: 'Passion one';
+      color: #FFBC00;
+  }
+
+  p{
+      font-weight:bold;
+      color: white;
+      font-family: Arial;
+  }
+  
   #LeftNav {
     Border: solid 8px  black;
     width: 400px;
@@ -35,4 +48,3 @@
   body {
       background-image: url('dark_wood.png');
   }
-
