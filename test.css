@@ -18,6 +18,8 @@
     Border: solid 8px  black;
     width: 700px;
     margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
   }
   #Footer {
@@ -33,5 +35,4 @@
   body {
       background-image: url('dark_wood.png');
   }
-
 
